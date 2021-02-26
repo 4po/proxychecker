@@ -1,0 +1,4 @@
+peewe >= 2.8.2
+requests[socks]>=2.18.4
+colorama>=0.3.7
+PySocks>=1.6.7
